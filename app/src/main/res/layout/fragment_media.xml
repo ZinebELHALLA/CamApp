@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--providing a container to hold multiple views (items or item_media)
+
+    item_media responsible for 1 image, fragment_media responsible for multipl images-->
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mediaRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />

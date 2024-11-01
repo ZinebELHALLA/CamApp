@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="2dp">
+<!--The adapter inflates this layout to create each view for the items in
+mediaList. It shows the images that the user can click to view in full size
+or interact with in other ways.
+Each item in the RecyclerView is created using the item_media.xml layout.
+This means every time you see an image in the list, it looks the same because
+ of this template.-->
+    <ImageView
+        android:id="@+id/mediaImageView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop" />
+</FrameLayout>
