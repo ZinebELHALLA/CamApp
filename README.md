@@ -21,10 +21,14 @@ CamApp est une application mobile développée en Kotlin, conçue pour permettre
 
 Pour installer CamApp sur votre appareil, veuillez suivre ces étapes :
 
-1. **Téléchargez le fichier APK** : [Lien vers le fichier APK]
-2. **Activez les sources inconnues** : Avant d'installer, allez dans les paramètres de votre appareil -> Sécurité -> Activez les « Sources inconnues ».
-3. **Installez l'application** : Ouvrez le fichier APK téléchargé et suivez les instructions à l'écran pour installer CamApp.
-4. **Permissions** : Accordez les autorisations nécessaires pour accéder à votre caméra et à votre galerie de photos.
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/ZinebELHALLA/CamApp.git
+   ```
+2. Ouvrez le projet dans Android Studio.
+3. Laissez Android Studio installer les dépendances nécessaires (via Gradle).
+4. Connectez un appareil Android ou configurez un émulateur pour exécuter l'application.
+5. Cliquez sur `Run` pour lancer l'application.
 
 ## Démonstration
 https://github.com/user-attachments/assets/8a3f44ce-f4ca-4933-ba6e-16d3fa106435
