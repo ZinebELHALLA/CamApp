@@ -31,5 +31,5 @@ Pour installer CamApp sur votre appareil, veuillez suivre ces étapes :
 5. Cliquez sur `Run` pour lancer l'application.
 
 ## Démonstration
-https://github.com/user-attachments/assets/8a3f44ce-f4ca-4933-ba6e-16d3fa106435
+https://github.com/user-attachments/assets/9f85f490-a37d-47c0-8303-d99079e41039
 
